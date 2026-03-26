@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on : [DesktopAI](https://github.com/sgulci/DesktopAi)
 
-- 📝 I regularly write articles on. : [blog.sahingulci.com](blog.sahingulci.com)
+- 📝 I regularly write articles on. : [blog.sahingulci.com](https://blog.sahingulci.com)
 
 - 💬 Ask me about : **java, distributed system, web, math etc.**
 
