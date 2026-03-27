@@ -28,6 +28,3 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/https://ko-fi.com/sahingulci"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/sahingulci" /></a></p><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sgulci&show_icons=true&locale=en" alt="sgulci" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sgulci&" alt="sgulci" /></p>
