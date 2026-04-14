@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Sahin</h1>
 <h3 align="center">A Software developer, Computer enthusiast</h3>
 
-- 🔭 I’m currently working on : [3D cpu rendering](https://github.com/sgulci/3D-CPU-Rendering-Pikuma-with-LWJGL)
+- 🔭 I’m currently working on : [3D cpu rendering](https://github.com/sgulci/3D-CPU-Rendering-Pikuma-with-LWJGL) , [Shine Trading System](https://github.com/sgulci/shine-trade-system)
 
-- 🌱 I’m currently learning : **3D graphic fundamentals, Local AI Inference**
+- 🌱 I’m currently learning : **Distrubuted System Details, 3D graphic fundamentals, Local AI Inference**
 
 - 👯 I’m looking to collaborate on : [DesktopAI](https://github.com/sgulci/DesktopAi)
 
 - 📝 I regularly write articles on. : [blog.sahingulci.com](https://blog.sahingulci.com)
 
-- 💬 Ask me about : **java, distributed system, web, math etc.**
+- 💬 Ask me about : **Java, distributed system, web, math etc.**
 
 - 📫 How to reach me. : **sahingulci@gmail.com**
 
 - 📄 Know about my experiences : [https://www.linkedin.com/in/sahin-gulci/](https://www.linkedin.com/in/sahin-gulci/)
 
-- ⚡ Fun fact : **Literature, music, movies and trekking are my hobbies**
+- ⚡ Fun fact : **Literature, music, movies, and trekking are my hobbies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
